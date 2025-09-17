@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal
-title: RutherfordiumEnjoyer
-description: Swlswmat Oagi!
+theme: jekyll-theme-cayman
+
+title: "Remmy's Explosive Lab"
+description: "A cool place to explore ideas, projects, and experiments!"
+
+show_downloads: false
+google_analytics: ""
+markdown: kramdown
+
+author: RutherfordiumEnjoyer
+social_links:
+  github: https://github.com/RutherfordiumEnjoyer
+  instagram: https://instagram.com/abyanabyanabyan
